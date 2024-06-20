@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/sample/static/css/main.5bf1f7ca.css",
+    "main.js": "/sample/static/js/main.9a0c44e2.js",
+    "static/js/787.ada797e6.chunk.js": "/sample/static/js/787.ada797e6.chunk.js",
+    "static/media/lap_img.svg": "/sample/static/media/lap_img.690c6b523542c5613b1ff9a012cb967b.svg",
+    "static/media/pic_1.svg": "/sample/static/media/pic_1.0557870d874419837e330f9ea686a15c.svg",
+    "static/media/dev_img.svg": "/sample/static/media/dev_img.c383eaa17481fc0246a8ba423cd2683e.svg",
+    "static/media/pic_2.svg": "/sample/static/media/pic_2.6e1efc51d855c25bd356a8f97208a93d.svg",
+    "static/media/Section 1 _ Hero Section.png": "/sample/static/media/Section 1 _ Hero Section.fec941f9effafc237b25.png",
+    "static/media/Project_img3.png": "/sample/static/media/Project_img3.8ac8c6d687fd24c61375.png",
+    "static/media/Project_img2.png": "/sample/static/media/Project_img2.06899c4aa3fbc4e80a8d.png",
+    "static/media/Satoshi-Variable.ttf": "/sample/static/media/Satoshi-Variable.536fda9b164542087fc7.ttf",
+    "static/media/Project_img1.png": "/sample/static/media/Project_img1.ac120549c436fd30fabe.png",
+    "static/media/ClashDisplay-Variable.ttf": "/sample/static/media/ClashDisplay-Variable.e7f67b72cbf79f80c9c7.ttf",
+    "static/media/branding_img.png": "/sample/static/media/branding_img.475a6b84b4a3c43b49a4.png",
+    "static/media/mobile_img.png": "/sample/static/media/mobile_img.f89ed30707516816d246.png",
+    "static/media/lap_img.png": "/sample/static/media/lap_img.3056a9193ff6532db04a.png",
+    "static/media/SocialMedia_logo.svg": "/sample/static/media/SocialMedia_logo.b6272b85b117180c039e0e8fdd61e1cb.svg",
+    "static/media/c-logo.svg": "/sample/static/media/c-logo.a706cda2fbdb1d6e091bf131aa42b5c2.svg",
+    "static/media/craftlab_logo.svg": "/sample/static/media/craftlab_logo.1edf6874b3659d2535759776528bf03d.svg",
+    "static/media/logo.svg": "/sample/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/craftlab_blue_icon.svg": "/sample/static/media/craftlab_blue_icon.fe4f803fefb38344caf57114c31b9d53.svg",
+    "static/media/icon.svg": "/sample/static/media/icon.e1a263b1febc8f698d1825bfc01a76f1.svg",
+    "static/media/star_img.svg": "/sample/static/media/star_img.207e7e0632203401c1922bb08d79b150.svg",
+    "static/media/copyright.svg": "/sample/static/media/copyright.7812666d7631cac07a549ad2f3c21887.svg",
+    "index.html": "/sample/index.html",
+    "static/media/Arrow_img (2).svg": "/sample/static/media/Arrow_img (2).eb68c4e91d1f5c6d4b5405223a6ed162.svg",
+    "static/media/btn-arrow.svg": "/sample/static/media/btn-arrow.b69ff2ef015846f640740fda35c697c2.svg",
+    "static/media/arrow_img.svg": "/sample/static/media/arrow_img.fec9151a3dcc1549ed91bc1ef91d7986.svg",
+    "static/media/Arrow.svg": "/sample/static/media/Arrow.c581cd03ac1d8c90d205cffe8b686264.svg",
+    "static/media/Menu.svg": "/sample/static/media/Menu.3d9ab65c40645c7c37c6569d9a668a10.svg",
+    "main.5bf1f7ca.css.map": "/sample/static/css/main.5bf1f7ca.css.map",
+    "main.9a0c44e2.js.map": "/sample/static/js/main.9a0c44e2.js.map",
+    "787.ada797e6.chunk.js.map": "/sample/static/js/787.ada797e6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bf1f7ca.css",
+    "static/js/main.9a0c44e2.js"
+  ]
+}
